@@ -1,0 +1,5 @@
+StringDecryptor Changelog
+
+08/28/2019
+1.0.01a
+	Fixed fatal AES bugs.
